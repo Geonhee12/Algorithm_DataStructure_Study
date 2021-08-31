@@ -5,5 +5,5 @@
 해당 공부 내용을 블로그에 보기 좋게 정리해두었습니다. 블로그 글이 가독이 더 좋습니다.<br>
 <hr>
 
-[알고리즘&자료구조_블로그](https://sondiaa.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0)
+[알고리즘&자료구조_블로그](https://sondiaa.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%28CS%29)
 
